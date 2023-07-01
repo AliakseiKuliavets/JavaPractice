@@ -1,3 +1,5 @@
+package Example;
+
 public class MultByTwo {
     public static void main(String[] args) {
         int i;

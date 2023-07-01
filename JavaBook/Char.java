@@ -1,3 +1,5 @@
+package Example;
+
 public class Char {
     public static void main(String[] args)
             throws java.io.IOException{ // конструкция которая необходима для обработки ошибок ввода

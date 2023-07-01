@@ -1,6 +1,6 @@
-/*
+package Example;/*
 Простая программа на Java .
-Назовите этот файл Example . j ava .
+Назовите этот файл Example.Example . j ava .
 */
 
 

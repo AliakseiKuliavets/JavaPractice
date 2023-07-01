@@ -1,3 +1,5 @@
+package Example;
+
 public class Array {
     public static void main(String[] args) {
         int[] month_days;

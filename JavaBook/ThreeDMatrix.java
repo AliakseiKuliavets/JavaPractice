@@ -1,3 +1,5 @@
+package Example;
+
 public class ThreeDMatrix {
     public static void main(String[] args) {
         int[][][] threeD = new int[4][4][5];

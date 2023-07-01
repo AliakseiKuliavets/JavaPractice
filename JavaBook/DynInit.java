@@ -1,3 +1,5 @@
+package Example;
+
 //Демонстрация использования динамической инициализации .
 public class DynInit {
     public static void main(String[] args) {

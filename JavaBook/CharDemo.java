@@ -1,3 +1,5 @@
+package Example;
+
 public class CharDemo {
     public static void main(String[] args) {
         char ch1;

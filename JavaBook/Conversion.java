@@ -1,3 +1,5 @@
+package Example;
+
 public class Conversion {
     public static void main(String[] args) {
         byte b;

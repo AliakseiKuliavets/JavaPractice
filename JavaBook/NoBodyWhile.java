@@ -1,3 +1,5 @@
+package Example;
+
 public class NoBodyWhile {
     public static void main(String[] args) {
         int i, j;
