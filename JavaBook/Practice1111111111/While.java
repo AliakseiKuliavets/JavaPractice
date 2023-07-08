@@ -1,4 +1,4 @@
-package Example;
+package Example.Practice1111111111;
 
 public class While {
     public static void main(String[] args) {
